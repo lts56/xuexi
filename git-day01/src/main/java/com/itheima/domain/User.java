@@ -6,7 +6,7 @@ package com.itheima.domain;
  */
 public class User {
 
-    private String name;//年龄
+    private String name;//年龄16
     private int math;//数学成绩 很厉害
 
     public String getName() {
